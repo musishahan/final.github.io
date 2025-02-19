@@ -81,7 +81,7 @@
             <h2>Amaze Plan</h2>
             <div class="price">$60</div>
             <p class="description">Designed for businesses that want to scale. All features included for ultimate flexibility.</p>
-            <a href="#" class="button">Choose Plan</a>
+           <a href="javascript:void(0)" data-cb-type="checkout" data-cb-plan-id="rise-final" class="button">Choose Plan</a>
         </div>
     </div>
 </body>
